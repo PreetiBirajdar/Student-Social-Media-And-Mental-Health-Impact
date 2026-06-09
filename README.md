@@ -52,6 +52,22 @@ The Tableau dashboard is designed to highlight key student behavior and mental h
 - Relationship between social media habits and emotional well-being
 - Interactive filters for deeper analysis
 
+Dashboard Action Used
+
+A Filter Action was added to make the dashboard interactive.
+
+When a user clicks on a country in the world map, the other charts and tables automatically update to show data only for the selected country.
+
+Action Settings:
+
+- Source Sheet: World Map
+- Target Sheets: Purpose of Use, Sleep Analysis, Platform Analysis, Student Details
+- Run Action On: Select
+- Clearing Selection: Show All Values
+- Target Filter: Country → Country
+
+This action allows users to explore country-wise differences in student social media usage, sleep patterns, mental health scores, addiction levels, and academic performance.
+
 ## 📈 Key Insights
 
 Some of the major insights explored in this project include:
@@ -86,14 +102,6 @@ This project demonstrates how data visualization can be used to understand stude
 4. Compare mental health indicators with social media usage patterns.
 5. Review insights and recommendations to understand key trends.
 
-## 📌 Future Improvements
-
-- Add more demographic and academic variables
-- Include statistical correlation analysis
-- Add predictive modeling for mental health risk levels
-- Expand the dataset with more student responses
-- Improve dashboard storytelling and visual design
-- Add comparison between different social media platforms
 
 ## 👩‍💻 Author
 
@@ -103,10 +111,6 @@ This project demonstrates how data visualization can be used to understand stude
 - Tableau Public: [Preetii Birajdar](https://public.tableau.com/app/profile/preetii.birajdar)
 - LinkedIn: https://www.linkedin.com/in/preeti-birajdar-06723b20a/
 
-## 📜 License
-
-This project is for educational and portfolio purposes.  
-You may use or modify it with proper credit.
 
 ## ⭐ Acknowledgement
 
