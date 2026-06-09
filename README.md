@@ -52,9 +52,9 @@ The Tableau dashboard is designed to highlight key student behavior and mental h
 - Relationship between social media habits and emotional well-being
 - Interactive filters for deeper analysis
 
-Dashboard Action Used
+## 📊📈 Dashboard Action Used
 
-A Filter Action was added to make the dashboard interactive.
+‼️A Filter Action was added to make the dashboard interactive.
 
 When a user clicks on a country in the world map, the other charts and tables automatically update to show data only for the selected country.
 
