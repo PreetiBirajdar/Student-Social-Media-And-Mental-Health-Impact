@@ -36,9 +36,9 @@ The Tableau dashboard includes visual insights such as:
 - **Tableau Public** – Dashboard creation and data visualization
 - **Microsoft Excel / CSV** – Data cleaning and preparation
 - **Data Analytics** – Exploratory analysis and insight generation
-- **GitHub** – Project documentation and sharing
 
-## 📁 Repository Contents
+
+
 
 ```text
 Student-Social-Media-And-Mental-Health-Impact/
