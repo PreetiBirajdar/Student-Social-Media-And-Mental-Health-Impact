@@ -107,9 +107,7 @@ This project demonstrates how data visualization can be used to understand stude
 
 **Preeti Birajdar**
 
-- GitHub: [PreetiBirajdar](https://github.com/PreetiBirajdar)
-- Tableau Public: [Preetii Birajdar](https://public.tableau.com/app/profile/preetii.birajdar)
-- LinkedIn: https://www.linkedin.com/in/preeti-birajdar-06723b20a/
+
 
 
 ## ⭐ Acknowledgement
